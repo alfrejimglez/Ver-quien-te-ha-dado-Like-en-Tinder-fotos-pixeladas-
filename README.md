@@ -8,7 +8,8 @@ Siempre trato de husmear a ver si encuentro cosas interesantes, esta vez le toc�
 1) Instalar extensión TamperMonkey en tu navegador https://www.tampermonkey.net/ esta practicamente para todos.
 2) Descargar el script que dejo en esta repo.
 3) Importarlo en la configuracion de tinder ![image](https://user-images.githubusercontent.com/17550010/157151777-7695bb33-de63-4993-b814-c02d3cedf5c8.png)
-4) Iniciar sesión en tinder darle likes y en un ratio de 4 segundos habra magia y podras visualizarlo ![image](https://user-images.githubusercontent.com/17550010/157151861-8ffe7036-ccfe-40de-9dd8-2637a50ba6f3.png)
+4) Iniciar sesión en tinder darle likes y en un ratio de 4 segundos habra magia y podras visualizarlo 
+![image](https://user-images.githubusercontent.com/17550010/157152157-72bdbc46-f591-463a-8ab5-d9859c0475b5.png)
 
 
 

@@ -13,6 +13,11 @@ Siempre trato de husmear a ver si encuentro cosas interesantes, esta vez le toc�
 
 
 
-<h2>Recuerda que este metodo no es permanente en cualquier momento puede caer , disfruntanlo mientras puedan.</h2>
+<h2>
+  Conclusión
+Para ser claros, el objetivo de esta publicación no es hacer que Tinder pierda dinero o promover este tipo de comportamiento (explotar las funciones pagas de forma gratuita), en mi opinión, podría considerarse una versión suave de la piratería.
+
+Mi objetivo era y siempre será aprender, en este caso, mediante ingeniería inversa del sitio de Tinder, una habilidad que considero muy importante para el desarrollo de software.
+ Recuerda que este metodo no es permanente en cualquier momento puede caer , disfruntanlo mientras puedan.</h2>
 
 
